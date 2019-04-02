@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[********Browser Open**********]]>
+    </line>
+    <line>
+      <![CDATA[Login Verified]]>
+    </line>
+    <line>
+      <![CDATA[*******Browser Close*******]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="23606" started-at="2019-03-30T15:39:56Z" finished-at="2019-03-30T15:40:20Z">
+    <groups>
+    </groups>
+    <test name="Eshopping" duration-ms="23606" started-at="2019-03-30T15:39:56Z" finished-at="2019-03-30T15:40:20Z">
+      <class name="base.LoginSetup">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:base.LoginSetup@6ae04d]" name="browserSetup" is-config="true" duration-ms="14024" started-at="2019-03-30T15:39:56Z" finished-at="2019-03-30T15:40:10Z">
+          <reporter-output>
+            <line>
+              <![CDATA[********Browser Open**********]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="checkValidLogin()[pri:0, instance:base.LoginSetup@6ae04d]" name="checkValidLogin" duration-ms="8875" started-at="2019-03-30T15:40:10Z" finished-at="2019-03-30T15:40:19Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Verified]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkValidLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:base.LoginSetup@6ae04d]" name="closeBrowser" is-config="true" duration-ms="666" started-at="2019-03-30T15:40:19Z" finished-at="2019-03-30T15:40:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[*******Browser Close*******]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- base.LoginSetup -->
+    </test> <!-- Eshopping -->
+  </suite> <!-- Suite1 -->
+</testng-results>

@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97410ed2-2a2f-41f6-85f1-a36e00eba5e5" name="Default Changelist" comment="" />
+    <list default="true" id="97410ed2-2a2f-41f6-85f1-a36e00eba5e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Pages/NavigationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/InvalidLoginTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/ValidLoginTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default Suite/Eshopping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default Suite/Eshopping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Default Suite/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junitreports/TEST-testCases.VerifyValidLogin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/Eshopping.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/Default Suite/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Utility/BrowserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Utility/BrowserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/VerifyValidLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/Utility/BrowserFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/Utility/BrowserFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testCases/VerifyValidLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.css" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,19 +61,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="1088">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testCases/VerifyValidLogin.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testCases/ValidLoginTestCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,13 +85,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/NavigationPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -48,8 +96,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/Utility/BrowserFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Base/BaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,15 +128,29 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/target/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Utility/BrowserFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/testCases/VerifyValidLogin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/BaseClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/BaseClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/base/BaseClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/base/LoginSetup.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/VerifyLoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testCases/BasePageTestCases.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Utility/BrowserFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/ValidLoginPage.java" />
+        <option value="$PROJECT_DIR$/testNG.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/BaseClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testCases/InvalidLoginTestCase.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/Pages/NavigationPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testCases/ValidLoginTestCase.java" />
       </list>
     </option>
   </component>
@@ -87,30 +161,41 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MavenProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MavenProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Eshopping" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eshopping" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Eshopping" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Eshopping" type="462c0819:PsiDirectoryNode" />
-              <item name="old" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Eshopping" type="b2602c69:ProjectViewProjectNode" />
@@ -175,28 +260,35 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testCases" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Eshopping" type="b2602c69:ProjectViewProjectNode" />
               <item name="Eshopping" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testCases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553623526788" />
-    <property name="last_opened_file_path" value="D:/git/Git/bin/git.exe" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554228261725" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ab\IdeaProjects\Eshopping\target" />
       <recent name="C:\Users\ab\IdeaProjects\Eshopping\target\XMLfiles" />
@@ -214,8 +306,76 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.VerifyValidLogin">
-    <configuration name="VerifyValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ValidLoginTestCase">
+    <configuration name="Eshopping" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/ab/IdeaProjects/Eshopping/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Eshopping" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
+      <option name="PACKAGE_NAME" value="base" />
+      <option name="MAIN_CLASS_NAME" value="base.LoginSetup" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ab\IdeaProjects\Eshopping\Reports" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InvalidLoginTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Eshopping" />
       <extension name="coverage">
         <pattern>
@@ -225,29 +385,111 @@
       </extension>
       <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="testCases" />
-      <option name="MAIN_CLASS_NAME" value="testCases.VerifyValidLogin" />
+      <option name="MAIN_CLASS_NAME" value="testCases.InvalidLoginTestCase" />
       <option name="GROUP_NAME" value="" />
       <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="C:\Users\ab\IdeaProjects\Eshopping\target\Reports" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ab\IdeaProjects\Eshopping\Reports" />
       <option name="TEST_SEARCH_SCOPE">
         <value defaultName="moduleWithDependencies" />
       </option>
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
       <properties />
-      <listeners>
-        <listener class="org.testng.reporters.EmailableReporter" />
-        <listener class="org.testng.reporters.FailedReporter" />
-        <listener class="org.testng.reporters.SuiteHTMLReporter" />
-      </listeners>
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="LoginPage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Eshopping" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="base" />
+      <option name="MAIN_CLASS_NAME" value="com.Pages.LoginPage" />
+      <option name="GROUP_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ab\IdeaProjects\Eshopping\Reports" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidLoginTestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Eshopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.ValidLoginTestCase" />
+      <option name="GROUP_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ab\IdeaProjects\Eshopping\Reports" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidLoginTestCase.checkValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Eshopping" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="testCases" />
+      <option name="MAIN_CLASS_NAME" value="testCases.ValidLoginTestCase" />
+      <option name="METHOD_NAME" value="checkValidLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ab\IdeaProjects\Eshopping\Reports" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <module name="Eshopping" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="base" />
+      <option name="MAIN_CLASS_NAME" value="base.LoginSetup" />
+      <option name="GROUP_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$MAVEN_REPOSITORY$" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\ab\IdeaProjects\Eshopping\Reports" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -255,13 +497,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.&lt;default&gt;" />
-      <item itemvalue="TestNG.VerifyValidLogin" />
+      <item itemvalue="Maven.Eshopping" />
+      <item itemvalue="TestNG.LoginPage" />
+      <item itemvalue="TestNG.C:/Users/ab/IdeaProjects/Eshopping/testNG.xml" />
+      <item itemvalue="TestNG.ValidLoginTestCase" />
+      <item itemvalue="TestNG.ValidLoginTestCase.checkValidLogin" />
+      <item itemvalue="TestNG.InvalidLoginTestCase" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.VerifyValidLogin" />
-        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.ValidLoginTestCase" />
+        <item itemvalue="TestNG.C:/Users/ab/IdeaProjects/Eshopping/testNG.xml" />
+        <item itemvalue="TestNG.InvalidLoginTestCase" />
+        <item itemvalue="TestNG.ValidLoginTestCase.checkValidLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -279,42 +527,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 15h 09m 48s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="LoginSetup - 2019.03.30 at 20h 24m 24s.xml">
+      <configuration name="LoginSetup" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 15h 17m 24s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="C__Users_ab_IdeaProjects_Eshopping_testNG_xml - 2019.03.30 at 21h 01m 28s.xml">
+      <configuration name="C:/Users/ab/IdeaProjects/Eshopping/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 15h 19m 35s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="BasePageTestCases_checkValidLogin - 2019.03.31 at 19h 50m 36s.xml">
+      <configuration name="BasePageTestCases.checkValidLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 15h 26m 30s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="BasePageTestCases_checkValidLogin - 2019.03.31 at 19h 52m 20s.xml">
+      <configuration name="BasePageTestCases.checkValidLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 15h 33m 58s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="BasePageTestCases - 2019.03.31 at 19h 54m 54s.xml">
+      <configuration name="BasePageTestCases" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 16h 10m 56s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="BasePageTestCases_checkValidLogin - 2019.03.31 at 19h 56m 38s.xml">
+      <configuration name="BasePageTestCases.checkValidLogin" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 16h 18m 20s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="C__Users_ab_IdeaProjects_Eshopping_testNG_xml - 2019.03.31 at 21h 04m 34s.xml">
+      <configuration name="C:/Users/ab/IdeaProjects/Eshopping/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 16h 22m 12s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="InvalidLoginTestCase - 2019.03.31 at 21h 10m 04s.xml">
+      <configuration name="InvalidLoginTestCase" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 16h 25m 37s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="C__Users_ab_IdeaProjects_Eshopping_testNG_xml - 2019.04.02 at 22h 58m 24s.xml">
+      <configuration name="C:/Users/ab/IdeaProjects/Eshopping/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="VerifyValidLogin - 2019.03.24 at 16h 27m 43s.xml">
-      <configuration name="VerifyValidLogin" configurationId="TestNG" />
+    <history-entry file="ValidLoginTestCase - 2019.04.02 at 23h 10m 18s.xml">
+      <configuration name="ValidLoginTestCase" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.26096824" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49878347" visible="true" weight="0.2806354" />
       <window_info id="Structure" order="1" sideWeight="0.50121653" side_tool="true" weight="0.25340393" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -322,9 +570,9 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32843137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -336,7 +584,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32980332" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -370,6 +618,38 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testCases/ValidLoginTestCase.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testCases/ValidLoginTestCase.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>driver.</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>driver</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/reporters/EmailableReporter.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -382,46 +662,101 @@
     <entry file="file://$PROJECT_DIR$/target/XMLfiles/index.html" />
     <entry file="file://$PROJECT_DIR$/target/XMLfiles/failed.png" />
     <entry file="file://$PROJECT_DIR$/target/XMLfiles/testng-results.xml" />
-    <entry file="file://$PROJECT_DIR$/old/Default Suite/reporter-output.html">
+    <entry file="file://$PROJECT_DIR$/old/Default Suite/reporter-output.html" />
+    <entry file="file://$PROJECT_DIR$/emailable-report.html" />
+    <entry file="file://$PROJECT_DIR$/target/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/junitreports/TEST-testCases.VerifyValidLogin.xml" />
+    <entry file="file://$PROJECT_DIR$/testNG/Eshopping.xml" />
+    <entry file="file://$PROJECT_DIR$/Reports/VerifyValidLogin/index.html" />
+    <entry file="file://$PROJECT_DIR$/testNG/Eshopping.html" />
+    <entry file="file://$PROJECT_DIR$/Reports/VerifyValidLogin/old/Default Suite/classes.html" />
+    <entry file="file://$PROJECT_DIR$/Reports/VerifyValidLogin/old/Default Suite/reporter-output.html" />
+    <entry file="file://$PROJECT_DIR$/Reports/VerifyValidLogin/old/Default Suite/testng.xml.html" />
+    <entry file="file://$PROJECT_DIR$/Reports/VerifyValidLogin/emailable-report.html" />
+    <entry file="file://$PROJECT_DIR$/Reports/VerifyValidLogin/Default Suite/Eshopping.html" />
+    <entry file="file://$PROJECT_DIR$/old/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/testCases/VerifyValidLogin.java" />
+    <entry file="file://$PROJECT_DIR$/Reports/VerifyValidLogin/testng-results.xml" />
+    <entry file="file://$PROJECT_DIR$/Reports/VerifyValidLogin/Default Suite/Eshopping.xml" />
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Default Suite/Eshopping.html">
+    <entry file="file://$PROJECT_DIR$/target/surefire-reports/emailable-report.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/emailable-report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/VerifyLoginPage.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="553">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java">
+    <entry file="file://$PROJECT_DIR$/testNG.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="63" column="31" selection-start-line="63" selection-start-column="31" selection-end-line="63" selection-end-column="31" />
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testCases/InvalidLoginTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-support/3.141.59/selenium-support-3.141.59.jar!/org/openqa/selenium/support/PageFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/Utility/BrowserFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/testCases/VerifyValidLogin.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/NavigationPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/Pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testCases/ValidLoginTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

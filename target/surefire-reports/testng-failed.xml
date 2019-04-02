@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite1]">
+  <test thread-count="5" verbose="0" name="Eshopping(failed)">
+    <classes>
+      <class name="base.LoginSetup">
+        <methods>
+          <include name="checkValidLogin"/>
+          <include name="closeBrowser"/>
+          <include name="browserSetup"/>
+        </methods>
+      </class> <!-- base.LoginSetup -->
+    </classes>
+  </test> <!-- Eshopping(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
